@@ -1,7 +1,4 @@
 # Heart Disease Data Analysis
-
-Python pipeline for heart disease data exploration and preprocessing (no ML models).
-
 ## Quick Start
 
 ```bash
@@ -28,3 +25,6 @@ Uses provided `heart.csv.csv` file with 303 patient records and 14 features.
 **Name:** Naitik Sharma  
 **Email:** naitik28sharma@gmail.com  
 **LinkedIn:** www.linkedin.com/in/naitik-sharma-54627335a
+
+
+give a feedback ;)
