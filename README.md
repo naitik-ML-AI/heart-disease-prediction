@@ -1,4 +1,4 @@
-# heart-disease-prediction
+
 # Heart Disease Prediction using Machine Learning
 
 A comprehensive machine learning project that predicts the likelihood of heart disease using various health parameters. This project implements multiple algorithms and provides both Python script and Jupyter notebook versions for maximum flexibility.
